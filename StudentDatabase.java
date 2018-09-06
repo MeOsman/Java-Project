@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author sabos
+ * @author Khan Osman
  */
 public class StudentDatabase {
 
